@@ -3197,7 +3197,7 @@
     )
   )
 
-  (footprint "VideoGames_KiCad6:SOIC127P790X216-8N" (layer "F.Cu")
+  (footprint "User:SOIC127P790X216-8N" (layer "F.Cu")
     (tstamp 53706d4a-ee3d-4890-a804-4010b2f28ddb)
     (at 180.9 95 45)
     (property "LCSC Part" "C82317")
@@ -3397,7 +3397,7 @@
     )
   )
 
-  (footprint "VideoGames_KiCad6:RP2040-QFN-56" (layer "F.Cu")
+  (footprint "User:RP2040-QFN-56" (layer "F.Cu")
     (tstamp 5acd2d1e-40ec-42c5-9ac2-26349a0c76c3)
     (at 168.62 101.43 -90)
     (descr "QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
@@ -4007,7 +4007,7 @@
     )
   )
 
-  (footprint "VideoGames:Reflex_Copper_20mm" locked (layer "F.Cu")
+  (footprint "User:Reflex_Copper_20mm" locked (layer "F.Cu")
     (tstamp 77de02b0-833f-41f4-b3c8-3e53396e45cd)
     (at 124.693816 105.7)
     (attr through_hole board_only)
@@ -5877,7 +5877,7 @@
     )
   )
 
-  (footprint "VideoGames:MiSTer_Addons_MA_15mm" locked (layer "F.Cu")
+  (footprint "User:MiSTer_Addons_MA_15mm" locked (layer "F.Cu")
     (tstamp a91fe7b2-9bec-44ea-9af3-dbc004d76fbf)
     (at 130.19296 109.564346)
     (attr through_hole board_only exclude_from_pos_files exclude_from_bom)
@@ -6909,7 +6909,7 @@
       (stroke (width 0.01) (type solid)) (fill solid) (layer "F.Mask") (tstamp c28ff87c-04c0-4bad-8dd4-8cea8dc4f6ad))
   )
 
-  (footprint "VideoGames_KiCad6:SW_SPST_6x6_C499305_C499302" (layer "F.Cu")
+  (footprint "User:SW_SPST_6x6_C499305_C499302" (layer "F.Cu")
     (tstamp a992935b-385d-446a-98ba-2ea881bda085)
     (at 186.640658 120.5)
     (descr "Surface Mount Tactile Switch for High-Density Packaging")
@@ -7039,7 +7039,7 @@
     )
   )
 
-  (footprint "VideoGames_KiCad6:Reflex_Encode-Kung_Fu-Silk-15mm" locked (layer "F.Cu")
+  (footprint "User:Reflex_Encode-Kung_Fu-Silk-15mm" locked (layer "F.Cu")
     (tstamp ae7b2497-1736-4aa7-9c92-c79b4a2ba12e)
     (at 129.128026 102.16725)
     (attr through_hole board_only)
@@ -8446,7 +8446,7 @@
     )
   )
 
-  (footprint "VideoGames:USB_Type_C_C167321" locked (layer "F.Cu")
+  (footprint "User:USB_Type_C_C167321" locked (layer "F.Cu")
     (tstamp dbe0b1cd-7a65-4a12-b039-e13abb78207e)
     (at 193.943337 91.874 90)
     (property "LCSC Part" "C165948")
@@ -8877,7 +8877,7 @@
     )
   )
 
-  (footprint "VideoGames_KiCad6:Idaho_M" (layer "B.Cu")
+  (footprint "User:Idaho_M" (layer "B.Cu")
     (tstamp 94b2f57d-c968-4f94-9726-8306ab551ca5)
     (at 126.3 104.4 180)
     (attr through_hole board_only exclude_from_pos_files exclude_from_bom)
